@@ -1,10 +1,11 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: "Javokhir Ganibev's Blog",
+  author: 'Javokhir Ganioev',
+  headerTitle: 'Javokhir Ganibaev',
+  description:
+    'In this blog I am going to share my stories about recent things happened in my life.',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://ganibaev-uz.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
@@ -13,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://youtube.com/',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
