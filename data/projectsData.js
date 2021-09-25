@@ -14,6 +14,12 @@ const projectsData = [
     href: 'https://github.com',
   },
   {
+    title: 'TED-ED club with Lyceum',
+    description: `sjdjbjx cdjscj dskcnsj csjdcj scsbcj sdj`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://github.com',
+  },
+  {
     title: 'The Time Machine',
     description: `Imagine being able to travel back in time or to the future. Simple turn the knob
     to the desired date and press "Go". No more worrying about lost keys or
