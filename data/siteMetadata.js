@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: "Javokhir Ganibev's Blog",
-  author: 'Javokhir Ganioev',
+  title: "Javokhir Ganibaev's Blog",
+  author: 'Javokhir Ganibaev',
   headerTitle: 'Javokhir Ganibaev',
   description:
     'In this blog I am going to share my stories about recent things happened in my life.',
@@ -10,11 +10,11 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'ganiboyevjavoxir25@gmail.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com/',
+  facebook: 'https://www.facebook.com/javohir.ganibayev',
+  youtube: 'https://youtube.com/channel/UCj2qXpZGuVAMo1bGVNfBv_A',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
