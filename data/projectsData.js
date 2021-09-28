@@ -8,6 +8,12 @@ const projectsData = [
     href: 'https://www.google.com',
   },
   {
+    title: 'Polo Independence Day 2021',
+    description: `sjdjbjx cdjscj dskcnsj csjdcj scsbcj sdj`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://github.com',
+  },
+  {
     title: 'A Real Engine',
     description: `oremsdjk s dvjsd fv skdjf vjksd fjkv sdjkfv jksd fvjk sdkjfv sjkdf vjks djkv sjkdf vjks djkfv jksd fvjk sdjkf`,
     imgSrc: '/static/images/google.png',
