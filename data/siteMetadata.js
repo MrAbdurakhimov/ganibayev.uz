@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'ganiboyevjavoxir25@gmail.com',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/ganiboevsat?s=09',
   facebook: 'https://www.facebook.com/javohir.ganibayev',
   youtube: 'https://youtube.com/channel/UCj2qXpZGuVAMo1bGVNfBv_A',
   linkedin: 'https://www.linkedin.com',
