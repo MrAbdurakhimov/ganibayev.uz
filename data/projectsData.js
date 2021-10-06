@@ -8,6 +8,12 @@ const projectsData = [
     href: 'https://www.google.com',
   },
   {
+    title: 'Polo Independence Day 2022',
+    description: `skvskvmskvk sdmlsdmlsm sdofmsmf sdofmomosd sdofmsfml sdfmlsdflsdlfmsl`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://github.com',
+  },
+  {
     title: 'Polo Independence Day 2021',
     description: `sjdjbjx cdjscj dskcnsj csjdcj scsbcj sdj`,
     imgSrc: '/static/images/google.png',
