@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: "Javokhir Ganibaev's Blog",
-  author: 'Javokhir Ganibaev',
-  headerTitle: 'Javokhir Ganibaev',
+  title: "Javokhir Ganiboev's Blog",
+  author: 'Javokhir Ganiboev',
+  headerTitle: 'Javokhir Ganiboev',
   description:
     'In this blog I am going to share my stories about recent things happened in my life.',
   language: 'en-us',
