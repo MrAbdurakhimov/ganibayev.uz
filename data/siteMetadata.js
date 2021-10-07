@@ -3,10 +3,10 @@ const siteMetadata = {
   author: 'Javokhir Ganiboev',
   headerTitle: 'Javokhir Ganiboev',
   description:
-    'In this blog I am going to share my stories about recent things happened in my life.',
+    'This Blog is dedicated to share my happiest moments happening in my life.',
   language: 'en-us',
   siteUrl: 'https://ganibaev-uz.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/timlrx/Javokhir-The American-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
