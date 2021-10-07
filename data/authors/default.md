@@ -2,7 +2,7 @@
 name: Javokhir Ganiboev
 avatar: /static/images/avatar.png
 occupation: Student
-company: ALUWED
+company: AL UWED
 email: ganibayevjavoxir25@gmail.com
 twitter: https://twitter.com/
 linkedin: https://www.linkedin.com/
