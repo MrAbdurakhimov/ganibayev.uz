@@ -4,7 +4,7 @@ const projectsData = [
     description: `What if you could look up any information in the world? Webpages, images, videos
     and more. Google has many features to help you find exactly what you're looking
     for.`,
-    imgSrc: '/static/images/google.png',
+    imgSrc: '/static/images/polo.png',
     href: 'https://instagram.com/asiarugbylive?utm_medium=copy_link',
   },
   {
@@ -22,8 +22,14 @@ const projectsData = [
   {
     title: 'TED-ED club with Lyceum',
     description: `sjdjbjx cdjscj dskcnsj csjdcj scsbcj sdj`,
-    imgSrc: '/static/images/google.png',
+    imgSrc: '/static/images/ted.png',
     href: 'https://github.com',
+  },
+  {
+    title: 'Student Union',
+    description: `sjdjbjx cdjscj dskcnsj csjdcj scsbcj sdj`,
+    imgSrc: '/static/images/diamond.png',
+    href: 'https://instagram.com/mpf.uz?utm_medium=copy_link',
   },
 ]
 
