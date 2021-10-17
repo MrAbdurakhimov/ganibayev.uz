@@ -8,6 +8,12 @@ const projectsData = [
     href: 'https://instagram.com/asiarugbylive?utm_medium=copy_link',
   },
   {
+    title: 'Polo Independence Day 2022',
+    description: `skvskvmskvk sdmlsdmlsm sdofmsmf sdofmomosd sdofmsfml sdfmlsdflsdlfmsl`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://github.com',
+  },
+  {
     title: 'Polo Independence Day 2021',
     description: `skvskvmskvk sdmlsdmlsm sdofmsmf sdofmomosd sdofmsfml sdfmlsdflsdlfmsl`,
     imgSrc: 'https://wallpaperskingdom.com/sites/default/files/styles/225x120/public/polo-ralph-lauren-logo-wallpaper-40881-8976895.png?itok=-emLu8TG',
